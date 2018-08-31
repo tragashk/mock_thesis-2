@@ -1,4 +1,4 @@
-hello. Here is a trivial change.
+﻿hello. Here is a trivial change.
 
 Adding another line...
 HELLO 
@@ -18,3 +18,5 @@ Oui
 
 ???
 🤡
+
+makin chang
